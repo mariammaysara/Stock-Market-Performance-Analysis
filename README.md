@@ -1,11 +1,11 @@
-🚗 Tesla Stock Close Price Predictor
+### 🚗 Tesla Stock Close Price Predictor
 Welcome to the Tesla Stock Close Price Predictor! This is an end-to-end machine learning project that forecasts the closing price of Tesla stock using historical data and a user-friendly web interface powered by Streamlit.
 
 ### Project Overview
 
 This application takes in various stock market features and predicts the closing price of Tesla (TSLA) shares. The goal is to help investors or enthusiasts estimate the stock price more intelligently using machine learning techniques.
 
- Features
+ ### Features
 
 User input for:
 
@@ -72,9 +72,11 @@ Streamlit (web app framework)
 Lottie animations (UX enhancement)
 
 📸 Screenshot
+
 ![Screenshot 2025-04-26 092433](https://github.com/user-attachments/assets/b80787bc-b200-4b3c-8a24-d8fa422fb25d)
 
 🙋‍♀️ Author
+
 Made by Mariam Maysara
 This project is licensed under the MIT License - feel free to use it for learning or inspiration
 
