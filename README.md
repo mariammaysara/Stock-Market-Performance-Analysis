@@ -34,6 +34,7 @@ Beautiful interactive interface with animations (Lottie).
 
 
 📁 Project Structure
+
 ├── app/
 │   └── app.py               # Streamlit application file
 ├── data/
