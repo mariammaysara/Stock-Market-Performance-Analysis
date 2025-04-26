@@ -31,6 +31,8 @@ Beautiful interactive interface with animations (Lottie).
 
 ### Live Demo
 👉 Click here to view the app : https://stock-market-performance-analysis-aoe59uj5x2erxy8uaggv8c.streamlit.app/
+
+
 📁 Project Structure
 ├── app/
 │   └── app.py               # Streamlit application file
@@ -46,6 +48,7 @@ Beautiful interactive interface with animations (Lottie).
 └── README.md                # Project documentation (you’re reading it!)
 
 ⚙️ How to Run Locally
+
 1- Clone the repository:
 git clone https://github.com/mariammaysara/Stock-Market-Performance-Analysis.git
 cd Stock-Market-Performance-Analysis
@@ -72,6 +75,7 @@ Streamlit (web app framework)
 Lottie animations (UX enhancement)
 
 📸 Screenshot
+
 
 ![Screenshot 2025-04-26 092433](https://github.com/user-attachments/assets/b80787bc-b200-4b3c-8a24-d8fa422fb25d)
 
