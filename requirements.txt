@@ -7,3 +7,4 @@ matplotlib
 yfinance
 xgboost
 joblib
+streamlit-lottie
